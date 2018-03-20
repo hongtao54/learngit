@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 diff work dict and stage
 Git tracks changes.
-branch is simple 
+Creating a new branch is quick And simple 
